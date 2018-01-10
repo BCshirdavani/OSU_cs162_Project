@@ -65,7 +65,7 @@ void PlayLoop::Play()
 	cout << "\tToday, is not your typical work day." << endl << endl;
 	cout << endl;
 	cout << "\tYour office place stinks of cabbage. You know, this can only mean one thing." << endl;
-	cout << "\tA Zombie must have farted. One of your co-workers has been infected by" << endl;
+	cout << "\tA Zombie must be near. One of your co-workers has been infected by" << endl;
 	cout << "\tzombie gas X, an experimental chemical that escaped a lab in Raccoon City." << endl;
 	cout << "\tIt is up to you, to find out who the zombie is, and end this nightmare..." << endl;
 	
